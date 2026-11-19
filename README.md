@@ -1,6 +1,6 @@
 # CodeAlpha_NetworkSniffer
 
-A basic Python network sniffer built with Scapy for the CodeAlpha Cyber Security internship (Task 1).
+A basic Python network sniffer built with Scapy for the CodeAlpha Cyber Security internship (Task 1) by Syeda Haniya Zahra.
 
 ## Features
 - Captures live packets and shows source/destination IP, protocol, ports, TCP flags
