@@ -27,5 +27,7 @@ Scapy reads frames from the network interface and parses each layer
 (Ethernet > IP > TCP/UDP/ICMP > payload). Each packet is passed to a handler
 that extracts the fields and prints them.
 
+## Sample Output
+![Sniffer Output](sniffer-output.png)
 ## Disclaimer
 For educational use only. Capture traffic only on networks you own or have permission to monitor.
